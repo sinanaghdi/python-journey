@@ -1,0 +1,12 @@
+# فایل‌های کش پایتون
+__pycache__/
+*.py[cod]
+
+# محیط مجازی
+venv/
+env/
+.venv/
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
