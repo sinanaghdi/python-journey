@@ -1,0 +1,44 @@
+File: 1.png
+Text: ee ‏چا‎ ee ee ee ‏جات‎ eee
+So ae oe ee
+‏و‎ sacar eae
+ieee erence
+Fogel ppp |
+Scenes
+SSDI the ted ‏وم‎ dees ‏کی‎ ON ss pd deme the Opes
+‏ات کی‎
+‏ات روا اس سک‎
+‏سا‎ a
+==================================================
+File: 2.png
+Text: This is the first line of
+this text example.
+
+This is the second line
+of the same text.
+==================================================
+File: 3.png
+Text: Line height at 100%
+۱ ۱ 0%
+Rater Buy at 90%
+Line height at 150%
+Such distance!
+==================================================
+File: 4.png
+Text: What looked good in a wider column
+on desktop is too much on mobile
+with a line height set to 1.6. It’s
+better than 1.2, but not that ideal.
+Everything is connected, adjust
+things to each other. Pick a typeface,
+choose the font size, set the max-
+width and then the line height.
+==================================================
+File: 5.png
+Text: Grammar-based models rely on a pre-defined grammar for
+generating a particular modality. They start by detecting
+high level concepts from the source modality, such as objects
+in images and actions from videos. These detections are then
+incorporated together with a generation procedure based on
+‏ده‎ pre-defined ocrammar to reciult in 4 tarocet modalitv
+==================================================

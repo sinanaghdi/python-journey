@@ -1,0 +1,56 @@
+Pillow>=8.0.0
+pytesseract>=0.3.10
+googletrans>=4.0.0
+🎯 How to Use:
+Install dependencies:
+
+bash
+pip install Pillow pytesseract googletrans
+Install Tesseract OCR:
+
+Download from: https://github.com/UB-Mannheim/tesseract/wiki
+
+Install Persian language during setup
+
+Create folder structure:
+
+text
+your-project/
+├── main.py
+├── pic/
+│   ├── image1.png
+│   ├── image2.jpg
+│   └── ...
+└── output.txt (auto-generated)
+Run the script:
+
+bash
+python main.py
+Enter your choice when prompted:
+
+Type y for translation to Persian
+
+Type n for OCR only
+
+💡 Key Features:
+✅ OCR extraction from multiple image formats
+
+✅ Translation to Persian using Google Translate
+
+✅ Error handling for each image
+
+✅ Progress tracking in console
+
+✅ UTF-8 encoding for Persian text
+
+✅ Image preprocessing for better OCR accuracy
+
+✅ Rate limiting to avoid translation errors
+
+🔧 Troubleshooting:
+Error	Solution
+TesseractNotFoundError	Check Tesseract installation path
+Translation failed	Check internet connection or use VPN
+No text found	Try using lang='eng' for English images
+Permission denied	Run PowerShell as Administrator
+Let me know if you need any modifications!
